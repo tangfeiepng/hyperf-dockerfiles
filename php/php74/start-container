@@ -4,4 +4,6 @@
 
 
 #composer create-project hyperf/hyperf-skeleton ./
-tail -f /dev/null
+#tail -f /dev/null
+
+php bin/hyperf.php start
