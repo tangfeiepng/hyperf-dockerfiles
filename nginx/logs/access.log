@@ -1,0 +1,4 @@
+192.168.80.1 - - [12/Jul/2022:08:32:01 +0000] "GET / HTTP/1.1" 502 497 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" "-"
+192.168.80.1 - - [12/Jul/2022:08:32:02 +0000] "GET /favicon.ico HTTP/1.1" 502 497 "http://www.hyperf.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" "-"
+192.168.80.1 - - [12/Jul/2022:08:32:02 +0000] "GET / HTTP/1.1" 502 497 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" "-"
+192.168.80.1 - - [12/Jul/2022:08:32:02 +0000] "GET /favicon.ico HTTP/1.1" 502 497 "http://www.hyperf.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" "-"
