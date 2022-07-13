@@ -5,6 +5,6 @@
 
 #composer create-project hyperf/hyperf-skeleton ./
 
-#tail -f /dev/null #启动容器服务但不启动hyperf应用服务
+tail -f /dev/null #启动容器服务但不启动hyperf应用服务
 
-php bin/hyperf.php start #如果只启动容器服务可以注释当前语句使用上面的语句
+#php bin/hyperf.php start #如果只启动容器服务可以注释当前语句使用上面的语句
