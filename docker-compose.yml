@@ -8,6 +8,8 @@ services:
       #- ./php/conf.d/php.ini:/usr/local/etc/php/conf.d/php.ini
     expose:
       - 9501
+    environment:
+      SSHPASSWD: "test"
     ports:
       - "22:22"
     networks:
