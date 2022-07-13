@@ -33,6 +33,12 @@ RUN curl -sS https://getcomposer.org/installer | php \
 
 RUN echo "swoole.use_shortname = 'Off'" >> /usr/local/etc/php/conf.d/php.ini
 
+
+#安装ssh服务
+RUN apt-get install -y openssh-server && mkdir /var/run/sshd && echo 'root:screencast' |chpasswd
+
+COPY sshd_config /etc/ssh/sshd_config
+
 COPY start-container /usr/local/bin/start-container
 RUN chmod +x /usr/local/bin/start-container
 
