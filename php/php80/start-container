@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+#mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/conf.d/php.ini"
+
+
+#composer create-project hyperf/hyperf-skeleton ./
+
+if [ "${SSHPASSWD}" = "" ];then
+  echo "root:123456" |chpasswd
+else
+  echo "root:${SSHPASSWD}" |chpasswd
+fi
+/usr/sbin/sshd -D
+tail -f /dev/null #启动容器服务但不启动hyperf应用服务
+
+#php bin/hyperf.php start #如果只启动容器服务可以注释当前语句使用上面的语句

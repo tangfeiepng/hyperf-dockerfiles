@@ -216,3 +216,464 @@
 2022/07/13 09:00:46 [notice] 1#1: start worker process 26
 2022/07/13 09:00:46 [notice] 1#1: start worker process 27
 2022/07/13 09:00:46 [notice] 1#1: start worker process 28
+2022/07/13 10:09:37 [notice] 25#25: signal 15 (SIGTERM) received, exiting
+2022/07/13 10:09:37 [notice] 28#28: signal 15 (SIGTERM) received, exiting
+2022/07/13 10:09:37 [notice] 25#25: exiting
+2022/07/13 10:09:37 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2022/07/13 10:09:37 [notice] 27#27: signal 15 (SIGTERM) received, exiting
+2022/07/13 10:09:37 [notice] 27#27: exiting
+2022/07/13 10:09:37 [notice] 26#26: signal 15 (SIGTERM) received, exiting
+2022/07/13 10:09:37 [notice] 28#28: exiting
+2022/07/13 10:09:37 [notice] 26#26: exiting
+2022/07/13 10:09:37 [notice] 1#1: signal 14 (SIGALRM) received
+2022/07/13 10:09:37 [notice] 26#26: exit
+2022/07/13 10:09:37 [notice] 27#27: exit
+2022/07/13 10:09:37 [notice] 25#25: exit
+2022/07/13 10:09:37 [notice] 28#28: exit
+2022/07/13 10:09:37 [notice] 1#1: signal 14 (SIGALRM) received
+2022/07/13 10:09:37 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/07/13 10:09:37 [notice] 1#1: worker process 25 exited with code 0
+2022/07/13 10:09:37 [notice] 1#1: worker process 26 exited with code 0
+2022/07/13 10:09:37 [notice] 1#1: worker process 28 exited with code 0
+2022/07/13 10:09:37 [notice] 1#1: signal 29 (SIGIO) received
+2022/07/13 10:09:37 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/07/13 10:09:37 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/07/13 10:09:37 [notice] 1#1: worker process 27 exited with code 0
+2022/07/13 10:09:37 [notice] 1#1: exit
+2022/07/14 05:57:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:57:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:57:32 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:57:44 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:57:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:58:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:58:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:58:32 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:58:44 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:58:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:59:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:59:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:59:32 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:59:44 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 05:59:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:00:09 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:00:21 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:00:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:00:45 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:00:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:01:10 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:01:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:01:33 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:01:46 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:01:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:02:10 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:02:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:02:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:02:46 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:02:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:03:10 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:03:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:03:34 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:03:46 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:03:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:04:10 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:04:22 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:04:35 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:04:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:04:59 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:05:11 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:05:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:05:35 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:05:47 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:05:59 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:06:11 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:06:23 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:06:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:06:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:07:00 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:07:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:07:24 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:07:36 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:07:48 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:08:00 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:08:12 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:08:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:08:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:08:49 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:09:01 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:09:13 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:09:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:09:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:09:49 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:10:01 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:10:13 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:10:25 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:10:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:10:49 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:11:02 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:11:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:11:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:11:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:11:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:12:02 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:12:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:12:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:12:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:12:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:13:02 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:13:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:13:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:13:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:13:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:14:02 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:14:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:14:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:14:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:14:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:15:02 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:15:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:15:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:15:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:15:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:16:02 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:16:14 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:16:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:16:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:16:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:17:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:17:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:17:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:17:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:17:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:18:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:18:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:18:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:18:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:18:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:19:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:19:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:19:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:19:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:19:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:20:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:20:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:20:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:20:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:20:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:21:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:21:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:21:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:21:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:21:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:22:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:22:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:22:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:22:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:22:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:23:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:23:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:23:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:23:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:23:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:24:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:24:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:24:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:24:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:24:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:25:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:25:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:25:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:25:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:25:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:26:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:26:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:26:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:26:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:26:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:27:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:27:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:27:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:27:39 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:27:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:28:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:28:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:28:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:28:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:28:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:29:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:29:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:29:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:29:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:29:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:30:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:30:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:30:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:30:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:30:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:31:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:31:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:31:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:31:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:31:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:32:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:32:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:32:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:32:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:32:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:33:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:33:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:33:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:33:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:33:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:34:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:34:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:34:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:34:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:34:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:35:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:35:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:35:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:35:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:35:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:36:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:36:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:36:28 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:36:40 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:36:52 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:37:04 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:37:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:37:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:37:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:37:53 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:38:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:38:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:38:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:38:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:38:53 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:39:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:39:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:39:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:39:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:39:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:40:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:40:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:40:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:40:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:40:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:41:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:41:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:41:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:41:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:41:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:42:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:42:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:42:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:42:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:42:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:43:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:43:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:43:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:43:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:43:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:44:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:44:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:44:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:44:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:44:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:45:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:45:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:45:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:45:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:45:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:46:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:46:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:46:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:46:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:46:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:47:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:47:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:47:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:47:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:47:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:48:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:48:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:48:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:48:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:48:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:49:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:49:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:49:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:49:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:49:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:50:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:50:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:50:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:50:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:50:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:51:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:51:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:51:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:51:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:51:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:52:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:52:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:52:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:52:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:52:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:53:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:53:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:53:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:53:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:53:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:54:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:54:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:54:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:54:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:54:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:55:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:55:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:55:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:55:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:55:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:56:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:56:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:56:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:56:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:56:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:57:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:57:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:57:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:57:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:57:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:58:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:58:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:58:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:58:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:58:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:59:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:59:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:59:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:59:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 06:59:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:00:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:00:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:00:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:00:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:00:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:01:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:01:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:01:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:01:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:01:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:02:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:02:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:02:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:02:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:02:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:03:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:03:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:03:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:03:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:03:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:04:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:04:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:04:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:04:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:04:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:05:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:05:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:05:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:05:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:05:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:06:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:06:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:06:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:06:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:06:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:07:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:07:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:07:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:07:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:07:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:08:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:08:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:08:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:08:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:08:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:09:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:09:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:09:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:09:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:09:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:10:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:10:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:10:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:10:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:10:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:11:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:11:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:11:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:11:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:11:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:12:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:12:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:12:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:12:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:12:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:13:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:13:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:13:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:13:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:13:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:14:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:14:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:14:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:14:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:14:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:15:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:15:19 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:15:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:15:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/14 07:15:55 [notice] 1#1: using the "epoll" event method
+2022/07/14 07:15:55 [notice] 1#1: nginx/1.22.0
+2022/07/14 07:15:55 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/14 07:15:55 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/14 07:15:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/14 07:15:55 [notice] 1#1: start worker processes
+2022/07/14 07:15:55 [notice] 1#1: start worker process 24
+2022/07/14 07:15:55 [notice] 1#1: start worker process 25
+2022/07/14 07:15:55 [notice] 1#1: start worker process 26
+2022/07/14 07:15:55 [notice] 1#1: start worker process 27
+2022/07/14 07:16:20 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/07/14 07:16:20 [notice] 24#24: gracefully shutting down
+2022/07/14 07:16:20 [notice] 25#25: gracefully shutting down
+2022/07/14 07:16:20 [notice] 26#26: gracefully shutting down
+2022/07/14 07:16:20 [notice] 26#26: exiting
+2022/07/14 07:16:20 [notice] 27#27: gracefully shutting down
+2022/07/14 07:16:20 [notice] 24#24: exiting
+2022/07/14 07:16:20 [notice] 25#25: exiting
+2022/07/14 07:16:20 [notice] 26#26: exit
+2022/07/14 07:16:20 [notice] 27#27: exiting
+2022/07/14 07:16:20 [notice] 24#24: exit
+2022/07/14 07:16:20 [notice] 25#25: exit
+2022/07/14 07:16:20 [notice] 27#27: exit
+2022/07/14 07:16:21 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/07/14 07:16:21 [notice] 1#1: worker process 27 exited with code 0
+2022/07/14 07:16:21 [notice] 1#1: signal 29 (SIGIO) received
+2022/07/14 07:16:21 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/07/14 07:16:21 [notice] 1#1: worker process 25 exited with code 0
+2022/07/14 07:16:21 [notice] 1#1: worker process 26 exited with code 0
+2022/07/14 07:16:21 [notice] 1#1: signal 29 (SIGIO) received
+2022/07/14 07:16:21 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/07/14 07:16:21 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/07/14 07:16:21 [notice] 1#1: worker process 24 exited with code 0
+2022/07/14 07:16:21 [notice] 1#1: exit
+2022/07/14 07:22:55 [notice] 1#1: using the "epoll" event method
+2022/07/14 07:22:55 [notice] 1#1: nginx/1.22.0
+2022/07/14 07:22:55 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/14 07:22:55 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/14 07:22:55 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/14 07:22:55 [notice] 1#1: start worker processes
+2022/07/14 07:22:55 [notice] 1#1: start worker process 26
+2022/07/14 07:22:55 [notice] 1#1: start worker process 27
+2022/07/14 07:22:55 [notice] 1#1: start worker process 28
+2022/07/14 07:22:55 [notice] 1#1: start worker process 29
