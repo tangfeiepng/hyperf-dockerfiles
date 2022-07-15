@@ -677,3 +677,49 @@
 2022/07/14 07:22:55 [notice] 1#1: start worker process 27
 2022/07/14 07:22:55 [notice] 1#1: start worker process 28
 2022/07/14 07:22:55 [notice] 1#1: start worker process 29
+2022/07/14 10:05:55 [notice] 26#26: signal 15 (SIGTERM) received, exiting
+2022/07/14 10:05:55 [notice] 26#26: exiting
+2022/07/14 10:05:55 [notice] 28#28: signal 15 (SIGTERM) received, exiting
+2022/07/14 10:05:55 [notice] 28#28: exiting
+2022/07/14 10:05:55 [notice] 27#27: signal 15 (SIGTERM) received, exiting
+2022/07/14 10:05:55 [notice] 27#27: exiting
+2022/07/14 10:05:55 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2022/07/14 10:05:55 [notice] 29#29: signal 15 (SIGTERM) received, exiting
+2022/07/14 10:05:55 [notice] 29#29: exiting
+2022/07/14 10:05:55 [notice] 26#26: exit
+2022/07/14 10:05:55 [notice] 28#28: exit
+2022/07/14 10:05:55 [notice] 27#27: exit
+2022/07/14 10:05:55 [notice] 29#29: exit
+2022/07/14 10:05:55 [notice] 1#1: signal 14 (SIGALRM) received
+2022/07/14 10:05:55 [notice] 1#1: signal 17 (SIGCHLD) received from 28
+2022/07/14 10:05:55 [notice] 1#1: worker process 28 exited with code 0
+2022/07/14 10:05:55 [notice] 1#1: signal 29 (SIGIO) received
+2022/07/14 10:05:55 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/07/14 10:05:55 [notice] 1#1: worker process 26 exited with code 0
+2022/07/14 10:05:55 [notice] 1#1: worker process 29 exited with code 0
+2022/07/14 10:05:55 [notice] 1#1: worker process 27 exited with code 0
+2022/07/14 10:05:55 [notice] 1#1: exit
+2022/07/15 03:44:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:44:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:45:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:45:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:45:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:45:43 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:45:55 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:46:07 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:46:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:46:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:46:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:46:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:47:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:47:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/gohp.conf:10
+2022/07/15 03:47:30 [notice] 1#1: using the "epoll" event method
+2022/07/15 03:47:30 [notice] 1#1: nginx/1.22.0
+2022/07/15 03:47:30 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/07/15 03:47:30 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/07/15 03:47:30 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/15 03:47:30 [notice] 1#1: start worker processes
+2022/07/15 03:47:30 [notice] 1#1: start worker process 24
+2022/07/15 03:47:30 [notice] 1#1: start worker process 25
+2022/07/15 03:47:30 [notice] 1#1: start worker process 26
+2022/07/15 03:47:30 [notice] 1#1: start worker process 27

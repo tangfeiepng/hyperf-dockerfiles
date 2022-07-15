@@ -10,7 +10,7 @@ RUN curl -L -o /tmp/msgpack.tar.gz https://pecl.php.net/get/msgpack-2.1.2.tgz \
     && rm -r /tmp/msgpack.tar.gz \
     && mkdir -p /usr/src/php/ext \
     && mv msgpack-2.1.2 /usr/src/php/ext/msgpack \
-    && docker-php-ext-install pcntl msgpack
+    && docker-php-ext-install pcntl msgpack pdo_mysql
 
 RUN curl -L -o /tmp/redis.tar.gz https://pecl.php.net/get/redis-5.3.7.tgz \
     && tar xfz /tmp/redis.tar.gz \
