@@ -3,14 +3,14 @@ FROM php:7.4.30-bullseye
 COPY ./sources.list.stretch /etc/apt/sources.list
 WORKDIR /docker
 
-RUN apt-get update && apt-get install -y zip libssl-dev
+RUN apt-get update && apt-get install -y zip libssl-dev libgmp-dev
 
 RUN curl -L -o /tmp/msgpack.tar.gz https://pecl.php.net/get/msgpack-2.1.2.tgz \
     && tar xfz /tmp/msgpack.tar.gz \
     && rm -r /tmp/msgpack.tar.gz \
     && mkdir -p /usr/src/php/ext \
     && mv msgpack-2.1.2 /usr/src/php/ext/msgpack \
-    && docker-php-ext-install json pcntl msgpack pdo_mysql
+    && docker-php-ext-install json pcntl msgpack pdo_mysql gmp
 
 RUN curl -L -o /tmp/redis.tar.gz https://pecl.php.net/get/redis-5.0.0.tgz \
     && tar xfz /tmp/redis.tar.gz \
