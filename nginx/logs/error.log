@@ -1872,3 +1872,42 @@
 2022/07/30 03:17:34 [notice] 1#1: start worker process 25
 2022/07/30 03:17:34 [notice] 1#1: start worker process 26
 2022/07/30 03:17:34 [notice] 1#1: start worker process 27
+2022/07/30 10:11:19 [notice] 25#25: signal 15 (SIGTERM) received, exiting
+2022/07/30 10:11:19 [notice] 25#25: exiting
+2022/07/30 10:11:19 [notice] 27#27: signal 15 (SIGTERM) received, exiting
+2022/07/30 10:11:19 [notice] 27#27: exiting
+2022/07/30 10:11:19 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2022/07/30 10:11:19 [notice] 26#26: signal 15 (SIGTERM) received, exiting
+2022/07/30 10:11:19 [notice] 26#26: exiting
+2022/07/30 10:11:19 [notice] 24#24: signal 15 (SIGTERM) received, exiting
+2022/07/30 10:11:19 [notice] 24#24: exiting
+2022/07/30 10:11:19 [notice] 25#25: exit
+2022/07/30 10:11:19 [notice] 27#27: exit
+2022/07/30 10:11:19 [notice] 26#26: exit
+2022/07/30 10:11:19 [notice] 24#24: exit
+2022/07/30 10:11:19 [notice] 1#1: signal 14 (SIGALRM) received
+2022/07/30 10:11:19 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/07/30 10:11:19 [notice] 1#1: worker process 24 exited with code 0
+2022/07/30 10:11:19 [notice] 1#1: worker process 25 exited with code 0
+2022/07/30 10:11:19 [notice] 1#1: worker process 26 exited with code 0
+2022/07/30 10:11:19 [notice] 1#1: worker process 27 exited with code 0
+2022/07/30 10:11:19 [notice] 1#1: exit
+2022/08/01 02:33:16 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:33:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:33:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:33:53 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:34:05 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:34:17 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:34:29 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:34:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:34:53 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/01 02:36:17 [notice] 1#1: using the "epoll" event method
+2022/08/01 02:36:17 [notice] 1#1: nginx/1.22.0
+2022/08/01 02:36:17 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/01 02:36:17 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/01 02:36:17 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/01 02:36:17 [notice] 1#1: start worker processes
+2022/08/01 02:36:17 [notice] 1#1: start worker process 25
+2022/08/01 02:36:17 [notice] 1#1: start worker process 26
+2022/08/01 02:36:17 [notice] 1#1: start worker process 27
+2022/08/01 02:36:17 [notice] 1#1: start worker process 28

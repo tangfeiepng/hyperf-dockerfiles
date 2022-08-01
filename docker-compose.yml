@@ -2,7 +2,7 @@ version: "3"
 services:
   php:
     build:
-      context: php/php81
+      context: php/php74
     volumes:
       - ../:/docker
       #- ./php/conf.d/php.ini:/usr/local/etc/php/conf.d/php.ini
