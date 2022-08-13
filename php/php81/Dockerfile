@@ -3,7 +3,8 @@ FROM php:8.1.8-bullseye
 COPY ./sources.list.stretch /etc/apt/sources.list
 WORKDIR /docker
 
-RUN apt-get update && apt-get install -y zip libssl-dev libgmp-dev unixodbc-dev
+RUN apt-get update && apt-get install -y zip libssl-dev libgmp-dev unixodbc-dev gnupg libgssapi-krb5-2
+
 
 RUN pecl install sqlsrv pdo_sqlsrv msgpack \
     && docker-php-ext-install pcntl pdo_mysql gmp \
@@ -33,5 +34,12 @@ COPY sshd_config /etc/ssh/sshd_config
 
 COPY start-container /usr/local/bin/start-container
 RUN chmod +x /usr/local/bin/start-container
+
+#sqlserver相关内容
+
+RUN su && curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add - \
+    && curl https://packages.microsoft.com/config/debian/11/prod.list > /etc/apt/sources.list.d/mssql-release.list \
+    && apt-get update && ACCEPT_EULA=y apt-get install -y msodbcsql18 mssql-tools18
+
 
 ENTRYPOINT ["start-container"]

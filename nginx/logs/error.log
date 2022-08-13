@@ -1911,3 +1911,309 @@
 2022/08/01 02:36:17 [notice] 1#1: start worker process 26
 2022/08/01 02:36:17 [notice] 1#1: start worker process 27
 2022/08/01 02:36:17 [notice] 1#1: start worker process 28
+2022/08/01 11:02:39 [notice] 26#26: signal 15 (SIGTERM) received, exiting
+2022/08/01 11:02:39 [notice] 27#27: signal 15 (SIGTERM) received, exiting
+2022/08/01 11:02:39 [notice] 25#25: signal 15 (SIGTERM) received, exiting
+2022/08/01 11:02:39 [notice] 25#25: exiting
+2022/08/01 11:02:39 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2022/08/01 11:02:39 [notice] 28#28: signal 15 (SIGTERM) received, exiting
+2022/08/01 11:02:39 [notice] 28#28: exiting
+2022/08/01 11:02:39 [notice] 27#27: exiting
+2022/08/01 11:02:39 [notice] 26#26: exiting
+2022/08/01 11:02:39 [notice] 26#26: exit
+2022/08/01 11:02:39 [notice] 25#25: exit
+2022/08/01 11:02:39 [notice] 28#28: exit
+2022/08/01 11:02:39 [notice] 27#27: exit
+2022/08/01 11:02:39 [notice] 1#1: signal 14 (SIGALRM) received
+2022/08/01 11:02:39 [notice] 1#1: signal 14 (SIGALRM) received
+2022/08/01 11:02:39 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/08/01 11:02:39 [notice] 1#1: worker process 26 exited with code 0
+2022/08/01 11:02:39 [notice] 1#1: worker process 27 exited with code 0
+2022/08/01 11:02:39 [notice] 1#1: worker process 28 exited with code 0
+2022/08/01 11:02:39 [notice] 1#1: worker process 25 exited with code 0
+2022/08/01 11:02:39 [notice] 1#1: exit
+2022/08/02 07:27:41 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:27:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:28:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:28:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:28:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:28:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:28:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:29:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:29:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:29:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:29:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:29:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:30:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:30:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:30:30 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:30:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:30:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:31:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/02 07:31:18 [notice] 1#1: using the "epoll" event method
+2022/08/02 07:31:18 [notice] 1#1: nginx/1.22.0
+2022/08/02 07:31:18 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/02 07:31:18 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/02 07:31:18 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/02 07:31:18 [notice] 1#1: start worker processes
+2022/08/02 07:31:18 [notice] 1#1: start worker process 25
+2022/08/02 07:31:18 [notice] 1#1: start worker process 26
+2022/08/02 07:31:18 [notice] 1#1: start worker process 27
+2022/08/02 07:31:18 [notice] 1#1: start worker process 28
+2022/08/03 08:46:44 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/03 08:46:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/03 08:47:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/03 08:47:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:03:54 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:04:06 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:04:18 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:04:31 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:04:42 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:04:56 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:05:08 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/05 08:05:20 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/10 07:39:32 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/10 07:39:44 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/10 07:39:57 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/10 07:40:10 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/11 07:20:37 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/11 07:20:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/11 07:21:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/11 07:21:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/12 09:37:44 [notice] 1#1: using the "epoll" event method
+2022/08/12 09:37:44 [notice] 1#1: nginx/1.22.0
+2022/08/12 09:37:44 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/12 09:37:44 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/12 09:37:44 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/12 09:37:44 [notice] 1#1: start worker processes
+2022/08/12 09:37:44 [notice] 1#1: start worker process 24
+2022/08/12 09:37:44 [notice] 1#1: start worker process 25
+2022/08/12 09:37:44 [notice] 1#1: start worker process 26
+2022/08/12 09:37:44 [notice] 1#1: start worker process 27
+2022/08/12 10:16:42 [notice] 27#27: signal 15 (SIGTERM) received, exiting
+2022/08/12 10:16:42 [notice] 25#25: signal 15 (SIGTERM) received, exiting
+2022/08/12 10:16:42 [notice] 25#25: exiting
+2022/08/12 10:16:42 [notice] 24#24: signal 15 (SIGTERM) received, exiting
+2022/08/12 10:16:42 [notice] 24#24: exiting
+2022/08/12 10:16:42 [notice] 27#27: exiting
+2022/08/12 10:16:42 [notice] 1#1: signal 15 (SIGTERM) received, exiting
+2022/08/12 10:16:42 [notice] 26#26: signal 15 (SIGTERM) received, exiting
+2022/08/12 10:16:42 [notice] 26#26: exiting
+2022/08/12 10:16:42 [notice] 24#24: exit
+2022/08/12 10:16:42 [notice] 25#25: exit
+2022/08/12 10:16:42 [notice] 27#27: exit
+2022/08/12 10:16:42 [notice] 26#26: exit
+2022/08/12 10:16:42 [notice] 1#1: signal 14 (SIGALRM) received
+2022/08/12 10:16:43 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/08/12 10:16:43 [notice] 1#1: worker process 25 exited with code 0
+2022/08/12 10:16:43 [notice] 1#1: worker process 26 exited with code 0
+2022/08/12 10:16:43 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/12 10:16:43 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/12 10:16:43 [notice] 1#1: worker process 24 exited with code 0
+2022/08/12 10:16:43 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/12 10:16:43 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/08/12 10:16:43 [notice] 1#1: worker process 27 exited with code 0
+2022/08/12 10:16:43 [notice] 1#1: exit
+2022/08/13 03:19:51 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:20:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:20:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:20:26 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:20:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:20:50 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:21:03 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:21:15 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:21:27 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:21:38 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hyperf.conf:10
+2022/08/13 03:21:51 [notice] 1#1: using the "epoll" event method
+2022/08/13 03:21:51 [notice] 1#1: nginx/1.22.0
+2022/08/13 03:21:51 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/13 03:21:51 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/13 03:21:51 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/13 03:21:51 [notice] 1#1: start worker processes
+2022/08/13 03:21:51 [notice] 1#1: start worker process 25
+2022/08/13 03:21:51 [notice] 1#1: start worker process 26
+2022/08/13 03:21:51 [notice] 1#1: start worker process 27
+2022/08/13 03:21:51 [notice] 1#1: start worker process 28
+2022/08/13 06:58:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/13 06:58:12 [notice] 28#28: gracefully shutting down
+2022/08/13 06:58:12 [notice] 26#26: gracefully shutting down
+2022/08/13 06:58:12 [notice] 25#25: gracefully shutting down
+2022/08/13 06:58:12 [notice] 28#28: exiting
+2022/08/13 06:58:12 [notice] 26#26: exiting
+2022/08/13 06:58:12 [notice] 27#27: gracefully shutting down
+2022/08/13 06:58:12 [notice] 25#25: exiting
+2022/08/13 06:58:12 [notice] 27#27: exiting
+2022/08/13 06:58:12 [notice] 27#27: exit
+2022/08/13 06:58:12 [notice] 28#28: exit
+2022/08/13 06:58:12 [notice] 25#25: exit
+2022/08/13 06:58:12 [notice] 26#26: exit
+2022/08/13 06:58:12 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/08/13 06:58:12 [notice] 1#1: worker process 26 exited with code 0
+2022/08/13 06:58:12 [notice] 1#1: worker process 28 exited with code 0
+2022/08/13 06:58:12 [notice] 1#1: worker process 25 exited with code 0
+2022/08/13 06:58:12 [notice] 1#1: worker process 27 exited with code 0
+2022/08/13 06:58:12 [notice] 1#1: exit
+2022/08/13 06:59:00 [notice] 1#1: using the "epoll" event method
+2022/08/13 06:59:00 [notice] 1#1: nginx/1.22.0
+2022/08/13 06:59:00 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/13 06:59:00 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/13 06:59:00 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/13 06:59:00 [notice] 1#1: start worker processes
+2022/08/13 06:59:00 [notice] 1#1: start worker process 25
+2022/08/13 06:59:00 [notice] 1#1: start worker process 26
+2022/08/13 06:59:00 [notice] 1#1: start worker process 27
+2022/08/13 06:59:00 [notice] 1#1: start worker process 28
+2022/08/13 09:06:14 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/13 09:06:14 [notice] 25#25: gracefully shutting down
+2022/08/13 09:06:14 [notice] 26#26: gracefully shutting down
+2022/08/13 09:06:14 [notice] 27#27: gracefully shutting down
+2022/08/13 09:06:14 [notice] 28#28: gracefully shutting down
+2022/08/13 09:06:14 [notice] 27#27: exiting
+2022/08/13 09:06:14 [notice] 27#27: exit
+2022/08/13 09:06:14 [notice] 26#26: exiting
+2022/08/13 09:06:14 [notice] 28#28: exiting
+2022/08/13 09:06:14 [notice] 26#26: exit
+2022/08/13 09:06:14 [notice] 25#25: exiting
+2022/08/13 09:06:14 [notice] 25#25: exit
+2022/08/13 09:06:14 [notice] 28#28: exit
+2022/08/13 09:06:14 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/08/13 09:06:14 [notice] 1#1: worker process 25 exited with code 0
+2022/08/13 09:06:14 [notice] 1#1: worker process 26 exited with code 0
+2022/08/13 09:06:14 [notice] 1#1: worker process 27 exited with code 0
+2022/08/13 09:06:14 [notice] 1#1: worker process 28 exited with code 0
+2022/08/13 09:06:14 [notice] 1#1: exit
+2022/08/13 09:06:39 [notice] 1#1: using the "epoll" event method
+2022/08/13 09:06:39 [notice] 1#1: nginx/1.22.0
+2022/08/13 09:06:39 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/13 09:06:39 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/13 09:06:39 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/13 09:06:39 [notice] 1#1: start worker processes
+2022/08/13 09:06:39 [notice] 1#1: start worker process 25
+2022/08/13 09:06:39 [notice] 1#1: start worker process 26
+2022/08/13 09:06:39 [notice] 1#1: start worker process 27
+2022/08/13 09:06:39 [notice] 1#1: start worker process 28
+2022/08/13 09:15:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/13 09:15:59 [notice] 25#25: gracefully shutting down
+2022/08/13 09:15:59 [notice] 26#26: gracefully shutting down
+2022/08/13 09:15:59 [notice] 26#26: exiting
+2022/08/13 09:15:59 [notice] 27#27: gracefully shutting down
+2022/08/13 09:15:59 [notice] 28#28: gracefully shutting down
+2022/08/13 09:15:59 [notice] 25#25: exiting
+2022/08/13 09:15:59 [notice] 26#26: exit
+2022/08/13 09:15:59 [notice] 27#27: exiting
+2022/08/13 09:15:59 [notice] 28#28: exiting
+2022/08/13 09:15:59 [notice] 27#27: exit
+2022/08/13 09:15:59 [notice] 25#25: exit
+2022/08/13 09:15:59 [notice] 28#28: exit
+2022/08/13 09:15:59 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/08/13 09:15:59 [notice] 1#1: worker process 25 exited with code 0
+2022/08/13 09:15:59 [notice] 1#1: worker process 26 exited with code 0
+2022/08/13 09:15:59 [notice] 1#1: worker process 27 exited with code 0
+2022/08/13 09:15:59 [notice] 1#1: worker process 28 exited with code 0
+2022/08/13 09:15:59 [notice] 1#1: exit
+2022/08/13 09:16:26 [notice] 1#1: using the "epoll" event method
+2022/08/13 09:16:26 [notice] 1#1: nginx/1.22.0
+2022/08/13 09:16:26 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/13 09:16:26 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/13 09:16:26 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/13 09:16:26 [notice] 1#1: start worker processes
+2022/08/13 09:16:26 [notice] 1#1: start worker process 25
+2022/08/13 09:16:26 [notice] 1#1: start worker process 26
+2022/08/13 09:16:26 [notice] 1#1: start worker process 27
+2022/08/13 09:16:26 [notice] 1#1: start worker process 28
+2022/08/13 09:16:59 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/13 09:16:59 [notice] 25#25: gracefully shutting down
+2022/08/13 09:16:59 [notice] 25#25: exiting
+2022/08/13 09:16:59 [notice] 26#26: gracefully shutting down
+2022/08/13 09:16:59 [notice] 27#27: gracefully shutting down
+2022/08/13 09:16:59 [notice] 28#28: gracefully shutting down
+2022/08/13 09:16:59 [notice] 25#25: exit
+2022/08/13 09:16:59 [notice] 26#26: exiting
+2022/08/13 09:16:59 [notice] 26#26: exit
+2022/08/13 09:16:59 [notice] 27#27: exiting
+2022/08/13 09:16:59 [notice] 28#28: exiting
+2022/08/13 09:16:59 [notice] 27#27: exit
+2022/08/13 09:16:59 [notice] 28#28: exit
+2022/08/13 09:16:59 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/08/13 09:16:59 [notice] 1#1: worker process 26 exited with code 0
+2022/08/13 09:16:59 [notice] 1#1: worker process 27 exited with code 0
+2022/08/13 09:16:59 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/13 09:16:59 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/08/13 09:16:59 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/13 09:16:59 [notice] 1#1: worker process 25 exited with code 0
+2022/08/13 09:16:59 [notice] 1#1: worker process 28 exited with code 0
+2022/08/13 09:16:59 [notice] 1#1: exit
+2022/08/13 09:25:49 [notice] 1#1: using the "epoll" event method
+2022/08/13 09:25:49 [notice] 1#1: nginx/1.22.0
+2022/08/13 09:25:49 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/13 09:25:49 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/13 09:25:49 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/13 09:25:49 [notice] 1#1: start worker processes
+2022/08/13 09:25:49 [notice] 1#1: start worker process 24
+2022/08/13 09:25:49 [notice] 1#1: start worker process 25
+2022/08/13 09:25:49 [notice] 1#1: start worker process 26
+2022/08/13 09:25:49 [notice] 1#1: start worker process 27
+2022/08/13 10:02:35 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/13 10:02:35 [notice] 27#27: gracefully shutting down
+2022/08/13 10:02:35 [notice] 26#26: gracefully shutting down
+2022/08/13 10:02:35 [notice] 24#24: gracefully shutting down
+2022/08/13 10:02:35 [notice] 25#25: gracefully shutting down
+2022/08/13 10:02:35 [notice] 27#27: exiting
+2022/08/13 10:02:35 [notice] 25#25: exiting
+2022/08/13 10:02:35 [notice] 26#26: exiting
+2022/08/13 10:02:35 [notice] 26#26: exit
+2022/08/13 10:02:35 [notice] 24#24: exiting
+2022/08/13 10:02:35 [notice] 24#24: exit
+2022/08/13 10:02:35 [notice] 27#27: exit
+2022/08/13 10:02:35 [notice] 25#25: exit
+2022/08/13 10:02:35 [notice] 1#1: signal 17 (SIGCHLD) received from 26
+2022/08/13 10:02:35 [notice] 1#1: worker process 26 exited with code 0
+2022/08/13 10:02:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/13 10:02:35 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/08/13 10:02:35 [notice] 1#1: worker process 24 exited with code 0
+2022/08/13 10:02:35 [notice] 1#1: worker process 25 exited with code 0
+2022/08/13 10:02:35 [notice] 1#1: worker process 27 exited with code 0
+2022/08/13 10:02:35 [notice] 1#1: exit
+2022/08/13 10:02:59 [notice] 1#1: using the "epoll" event method
+2022/08/13 10:02:59 [notice] 1#1: nginx/1.22.0
+2022/08/13 10:02:59 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/13 10:02:59 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/13 10:02:59 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/13 10:02:59 [notice] 1#1: start worker processes
+2022/08/13 10:02:59 [notice] 1#1: start worker process 24
+2022/08/13 10:02:59 [notice] 1#1: start worker process 25
+2022/08/13 10:02:59 [notice] 1#1: start worker process 26
+2022/08/13 10:02:59 [notice] 1#1: start worker process 27
+2022/08/13 10:07:00 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/13 10:07:00 [notice] 24#24: gracefully shutting down
+2022/08/13 10:07:00 [notice] 25#25: gracefully shutting down
+2022/08/13 10:07:00 [notice] 25#25: exiting
+2022/08/13 10:07:00 [notice] 27#27: gracefully shutting down
+2022/08/13 10:07:00 [notice] 26#26: gracefully shutting down
+2022/08/13 10:07:00 [notice] 24#24: exiting
+2022/08/13 10:07:00 [notice] 25#25: exit
+2022/08/13 10:07:00 [notice] 27#27: exiting
+2022/08/13 10:07:00 [notice] 26#26: exiting
+2022/08/13 10:07:00 [notice] 24#24: exit
+2022/08/13 10:07:00 [notice] 27#27: exit
+2022/08/13 10:07:00 [notice] 26#26: exit
+2022/08/13 10:07:00 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/13 10:07:00 [notice] 1#1: worker process 25 exited with code 0
+2022/08/13 10:07:00 [notice] 1#1: worker process 26 exited with code 0
+2022/08/13 10:07:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/13 10:07:00 [notice] 1#1: signal 17 (SIGCHLD) received from 27
+2022/08/13 10:07:00 [notice] 1#1: worker process 27 exited with code 0
+2022/08/13 10:07:00 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/13 10:07:01 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/13 10:07:01 [notice] 1#1: worker process 24 exited with code 0
+2022/08/13 10:07:01 [notice] 1#1: exit
+2022/08/13 10:08:25 [notice] 1#1: using the "epoll" event method
+2022/08/13 10:08:25 [notice] 1#1: nginx/1.22.0
+2022/08/13 10:08:25 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/13 10:08:25 [notice] 1#1: OS: Linux 5.10.16.3-microsoft-standard-WSL2
+2022/08/13 10:08:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/13 10:08:25 [notice] 1#1: start worker processes
+2022/08/13 10:08:25 [notice] 1#1: start worker process 25
+2022/08/13 10:08:25 [notice] 1#1: start worker process 26
+2022/08/13 10:08:25 [notice] 1#1: start worker process 27
+2022/08/13 10:08:25 [notice] 1#1: start worker process 28

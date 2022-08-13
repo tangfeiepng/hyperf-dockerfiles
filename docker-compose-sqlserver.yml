@@ -1,0 +1,15 @@
+version: "3"
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    ports:
+      - "1433:1433"
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Developer"
+      SA_PASSWORD: "123456tfp."
+      TrustServerCertificate: "Yes"
+    networks:
+      web:
+networks:
+  web:
