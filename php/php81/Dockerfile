@@ -1,6 +1,6 @@
 FROM php:8.1.8-bullseye
 
-COPY ./sources.list.stretch /etc/apt/sources.list
+#COPY ./sources.list.stretch /etc/apt/sources.list
 WORKDIR /docker
 
 RUN apt-get update && apt-get install -y zip libssl-dev libgmp-dev unixodbc-dev gnupg libgssapi-krb5-2
@@ -26,13 +26,13 @@ RUN curl -L -o /tmp/redis.tar.gz https://pecl.php.net/get/redis-5.3.7.tgz \
 RUN curl -sS https://getcomposer.org/installer | php \
     && mv composer.phar /usr/local/bin/composer \
     && composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/ \
-    && echo "swoole.use_shortname = 'Off'" >> /usr/local/etc/php/conf.d/php.ini \
+    && echo "swoole.use_shortname = 'Off'" >> /usr/local/etc/php/conf.d/php.ini
 
 #安装ssh服务
 RUN apt-get install -y openssh-server && mkdir /var/run/sshd
 COPY sshd_config /etc/ssh/sshd_config
 
-COPY start-container /usr/local/bin/start-container
+COPY ./start-container /usr/local/bin/start-container
 RUN chmod +x /usr/local/bin/start-container
 
 #sqlserver相关内容
@@ -41,5 +41,6 @@ RUN su && curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add -
     && curl https://packages.microsoft.com/config/debian/11/prod.list > /etc/apt/sources.list.d/mssql-release.list \
     && apt-get update && ACCEPT_EULA=y apt-get install -y msodbcsql18 mssql-tools18
 
+#tail -f /dev/null
 
 ENTRYPOINT ["start-container"]
